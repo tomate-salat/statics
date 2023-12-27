@@ -54,5 +54,9 @@
   "bytewelt": {
     "name": "bytewelt",
     "so": "How does a stream look like if the streamer is too lazy to stream? - Check out bytewelt to see how a printer is doing more work than the streamer: https://www.twitch.tv/bytewelt"
+  },
+  "redstone": {
+    "name": "redston4D",
+    "so": "If you are interested in Godot-Content then please leave a follow at the awesome redstone4d: https://www.twitch.tv/redston4d"
   }
 }
