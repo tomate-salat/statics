@@ -70,5 +70,9 @@
   "pantherxblut": {
     "name": "pantherxblut",
     "so": "Panther is a sympathic german streamer who has started his gamedev-journey with unity. Check out how he works on his 2D-Shooter on twitch: https://www.twitch.tv/pantherxblut"
+  },
+  "AlchemySheep": {
+    "name": "AlchemySheep",
+    "so": "AlchemySheep is working on a cool pirate-mobile-game as sideproject and a bit more hardcore mainproject in unity. Check out his channel for more: https://www.twitch.tv/alchemysheep"
   }
 }
