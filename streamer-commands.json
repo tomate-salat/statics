@@ -37,7 +37,7 @@
   },
   "kani_dev": {
     "name": "kani_dev",
-    "so": "2D, 3D, Godot, custom avatar. Follow kani_dev for some interessting Godot-projects. https://www.twitch.tv/kani_dev"
+    "so": "2D, 3D, Godot, custom avatar. Also he is providing his twitch-api for godot to everyone and you can check it out here: https://github.com/kanimaru/twitcher/. Follow kani_dev for some interessting Godot-projects. https://www.twitch.tv/kani_dev"
   },
   "coder2k": {
     "name": "coder2k", 
