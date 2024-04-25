@@ -115,9 +115,12 @@
     "name": "iamamerlin",
     "so": "Check out IAmAMerlin who is working on his game Ozoss using Godot or his other other project: TheWorldIsOneObject. Sounds good? Then please leave a follow: https://www.twitch.tv/iamamerlin"
   },
-  
   "sovereigndev": {
     "name": "sovereigndev",
     "so": "SovereignDev is working on Sovereign you can find on steam: https://store.steampowered.com/app/1446460/Sovereign/ (pls whishlist). This game is a multiplayer fantasy RPG which is really adorable looking. Check out how its made in UE by following https://www.twitch.tv/sovereigndev"
+  },
+  "jackie_codes": {
+    "name": "jackie_codes",
+    "so": "Check out https://www.twitch.tv/jackie_codes for some cool godot-dev-content! She is working on her game Logcraft which is a story driven survival game. You can also find her on youtube https://www.youtube.com/channel/UCVrC7eFcep-0gPw2foMvYcQ"
   }
 }
